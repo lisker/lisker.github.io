@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:static;
-  left:auto;
-  width:680px;
-  margin-left:0;
-  margin-right:0;
+  position:relative;
+  left:-0px;
+  width:380px;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 #base {
@@ -14,7 +14,7 @@
 }
 #u0 {
   position:absolute;
-  left:300px;
+  left:0px;
   top:10px;
   width:380px;
   height:800px;
@@ -36,7 +36,7 @@
 }
 #u2 {
   position:absolute;
-  left:331px;
+  left:31px;
   top:129px;
   width:320px;
   height:570px;
