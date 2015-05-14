@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:670px;
+  width:320px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1374,32 +1374,5 @@
   left:0px;
   top:0px;
   width:190px;
-  word-wrap:break-word;
-}
-#u103 {
-  position:absolute;
-  left:350px;
-  top:70px;
-  width:320px;
-  height:400px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
-  color:#000000;
-  text-align:left;
-  line-height:20px;
-}
-#u103_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:320px;
-  height:400px;
-}
-#u104 {
-  position:absolute;
-  left:10px;
-  top:10px;
-  width:300px;
   word-wrap:break-word;
 }
