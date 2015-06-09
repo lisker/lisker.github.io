@@ -616,3 +616,24 @@
   width:32px;
   word-wrap:break-word;
 }
+#u48 {
+  position:absolute;
+  left:10px;
+  top:74px;
+  width:35px;
+  height:35px;
+}
+#u48_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  height:35px;
+}
+#u49 {
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:31px;
+  word-wrap:break-word;
+}
